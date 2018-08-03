@@ -10,3 +10,4 @@ file
 read@learn.com
 Assets
 mail@read.com
+yahoo.co.jp
