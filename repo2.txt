@@ -1,8 +1,7 @@
-Assets
-atenas
 <?xml version="1.2" scopetest?>
-<?xml version="1.5" encoding="UTF-9"?>
 <?xml version="1.0" encoding="UTF-8"?>
 send
 New
 file
+read@learn.com
+mail@read.com
