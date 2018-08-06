@@ -4,3 +4,4 @@ INSTAGRAM_ID
 entry
 ADMINPASS
 files
+bulk.com
