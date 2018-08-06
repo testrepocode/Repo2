@@ -1,3 +1,4 @@
+spend
 INSTAGRAM_ID
 entry
 ADMINPASS
