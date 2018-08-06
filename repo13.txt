@@ -1,5 +1,4 @@
-api_secrete
-test
+INSTAGRAM_ID
+entry
 ADMINPASS
 files
-8012357410022589
