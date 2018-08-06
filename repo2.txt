@@ -1,3 +1,2 @@
-Head
-gmail.com
-CA for EJBCA test certificates
+ca-ejbca
+files
